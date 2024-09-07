@@ -59,5 +59,5 @@ The application includes an export feature that divides interview data into two 
 - Real-world scenarios such as candidates forgetting to schedule after agreeing need to be considered in the workflow.
 
 
-##Conclusion
+## Conclusion
 The scheduling system is designed to streamline the interview scheduling process, making it user-friendly for interns while maintaining efficiency and meeting the expected output goals.
