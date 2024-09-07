@@ -1,7 +1,7 @@
 # Weekday’s Assignment Documentation
 
 ## Overview
-This project implements a scheduling system for Weekday using a MERN stack architecture with PostgreSQL instead of MongoDB. The system is designed to handle interview scheduling requests from 100 partner companies, aiming to schedule 80% of interviews within 24 hours.
+This project implements a scheduling system for Weekday using a MERN stack architecture with PostgreSQL. The system is designed to handle interview scheduling requests from 100 partner companies, aiming to schedule 80% of interviews within 24 hours.
 
 ## Problem Statement
 The assignment involves creating a robust scheduling system for managing interview scheduling requests. The intern team (Ram and Shyam) must efficiently schedule over 500 interview requests daily while navigating potential challenges, such as candidates not responding to outreach.
@@ -11,8 +11,7 @@ The assignment involves creating a robust scheduling system for managing intervi
 - **Frontend**: React.js
 - **Backend**: Node.js with Express.js
 - **Database**: PostgreSQL
-- **State Management**: Redux for managing application state
-
+- **State Management**: Zustand for managing application state
 
 
 ### Candidate Status Management
